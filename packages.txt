@@ -1,0 +1,4 @@
+libgl1
+poppler-utils
+libssl-dev
+./libssl1.1_1.1.1f-1ubuntu2.19_amd64.deb
